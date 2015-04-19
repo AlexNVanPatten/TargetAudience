@@ -1,3 +1,4 @@
+import glob
 import re
 import GunningFog
 
@@ -16,7 +17,7 @@ def file_to_string(fileName):
 def remove_html(fileString):
     #Removes everything leading up to the article
     #Philosophy Now uses h1 uniquely as the title for an article
-    fileString = re.sub('.*?<h1>', "<h1>", fileString)
+    fileString = re.sub('.*?<h1>.*?</h1>', "<", fileString)
     #Removes all html markups
     fileString = re.sub('<.*?>', '', fileString)
     #Removes Various non-necessary symbols
@@ -38,7 +39,20 @@ def remove_html(fileString):
 def process_file(fileName):
     fileString = file_to_string(fileName)
     fileString = remove_html(fileString)
-    print fileString
     print GunningFog.count(fileString)
+    return fileString
     
-process_file("Testing\\PhilosophyNow\\hetfacebook.htm")
+#Takes all htm files in the TweenTribune folder and outputs the string's
+#As text files in the TweenTribuneOutput folder
+def makeOutputStrings():
+    files = glob.glob("Testing\\PhilosophyNow\\*.htm")
+    for inFile in files:
+        fileName = inFile.replace('Testing\\PhilosophyNow\\',  '')
+        fileName = fileName.replace('.htm', '')
+        fileString = process_file(inFile)
+        newFileName = "Testing\\PhilosophyNowOutput\\" + fileName + ".txt"
+        outFile = open(newFileName, 'w')
+        outFile.write(fileString)
+        outFile.close()
+
+makeOutputStrings()

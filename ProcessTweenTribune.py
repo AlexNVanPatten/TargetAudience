@@ -1,3 +1,4 @@
+import glob
 import re
 import GunningFog
 
@@ -29,7 +30,21 @@ def remove_html(fileString):
 def process_file(fileName):
     fileString = file_to_string(fileName)
     fileString = remove_html(fileString)
-    print fileString
     print GunningFog.count(fileString)
+    return fileString
+
+#Takes all htm files in the TweenTribune folder and outputs the string's
+#As text files in the TweenTribuneOutput folder
+def makeOutputStrings():
+    files = glob.glob("Testing\\TweenTribune\\*.htm")
+    for inFile in files:
+        fileName = inFile.replace('Testing\\TweenTribune\\',  '')
+        fileName = fileName.replace('.htm', '')
+        fileString = process_file(inFile)
+        newFileName = "Testing\\TweenTribuneOutput\\" + fileName + ".txt"
+        outFile = open(newFileName, 'w')
+        outFile.write(fileString)
+        outFile.close()
+
+makeOutputStrings()
     
-process_file("Testing\\TweenTribune\\makingnational.htm")
