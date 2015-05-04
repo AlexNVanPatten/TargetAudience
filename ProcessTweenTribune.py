@@ -20,10 +20,11 @@ def remove_html(fileString):
     fileString = fileString.replace('\t', " ")
     #Removes everything leading up to article
     #Tween Tribune has the words Associated Press before every article
-    fileString = re.sub('.*?Associated Press', "", fileString)
+    fileString = re.sub('.*?| Associated Press', "", fileString)
     #Removes everything after the article
     #Tween Tribune ends every article with a Critical Thinking Challenge
     fileString = re.sub('Critical thinking challenge.*', "", fileString)
+    fileString = re.sub('.*   ', "", fileString)
     return fileString
 
 #Tests above function by printing the file's string and it's GunningFog index
