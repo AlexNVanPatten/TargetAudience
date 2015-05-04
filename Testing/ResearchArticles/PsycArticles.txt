@@ -1,0 +1,948 @@
+Abstract
+Current reform efforts seek to redesign teacher education in alignment with a practice-based theory, a
+fundamental reconceptualization of higher education demanding a tighter alignment with K-12 school practices.
+The Faculty Research Residency Model—a Department of Education Funds for the Improvement of PostSecondary
+Education (FIPSE) grant supported project—draws upon practice-based theory and leverages existing
+school-university partnerships to create opportunities for faculty to research practices in high need urban schools
+to inform university course redesign. This study describes the faculty research residency model, reports on year
+one results of the project, describes implications for refining the model, and provides recommendations to inform
+others seeking to improve university coursework through school-university partnerships.
+Teacher education has come under fire for not preparing teacher candidates to enact rigorous and
+robust instruction, particularly to students of color or those living in poverty (Blanchett, 2006; Grant &
+Gillette, 2006; Ladson-Billings, 2005). Referred to as “the problem of enactment,” teacher candidates are
+frequently unable to translate theories of effective teaching and learning into practice—and thereby fail
+to promote rigorous and robust student learning (Hammerness et al., 2005). Currently, there is an effort
+to combat the problem of enactment by recommending a practice-based theory of teacher learning (Ball
+& Forzani, 2010; Lambert, 2010) that calls for a fundamental reconceptualization of how teacher
+education coursework is designed and delivered.
+To address problems of enactment occurring within our school-university partnership settings and
+improve the caliber of university curriculum and coursework using a practice-based approach, we
+designed the Faculty Research Residency (FRR) project. The FRR Project spans 2011–13 and is funded
+by a three-year Department of Education grant. The project was designed to improve teacher
+education, strengthen existing school partnerships, and create new ways for university faculty to learn
+in, with, and from the classroom or school context. In the FRR Project, university faculty are situated in
+high-need, urban schools to: 1) engage in a research project in their discipline to better understand
+and/or impact student learning; and 2) use the contextual knowledge gained from this in-depth
+experience to inform teacher preparation course redesign to more effectively prepare teacher
+candidates, which in turns supports our partnering network schools. University faculty also met in
+monthly seminars to discuss research on practice-based theory and collaborate on research and course
+redesign.
+This descriptive narrative reports on data reflecting the first year of the grant. The purpose of this
+study was to understand how faculty experienced and perceived the FRR project. In particular, we
+wanted to understand if the FRR project facilitated faculty research in high-need schools and
+contributed to curricular redesign utilizing a practice-based approach. This narrative describes the FRR
+Wendy Gardiner & Diane Salmon
+The Professional Educator
+project and provides lessons learned from year one to inform subsequent grant cycles and increase the
+likelihood that the grant will improve teaching and learning. This narrative is also intended to describe
+a model and collaborative process for engaging faculty in high-need schools to improve university
+coursework and respond to the pervasive problems of enactment that beginning teachers’ experience.
+Conceptual Framework
+Practice-Based Theory
+A practice-based theory for teacher learning demands a situated approach in which theory (which
+is typically generalized) is specifically linked to and embedded in the actual tasks and activities of
+teaching (Ball & Forzani, 2010; Hammerness et al., 2005; Lambert, 2010). A shift to a practice-based
+design in teacher learning requires that teacher educators deepen their participation within schools to
+redesign university learning to explicitly explore the nexus of theory and practice (Darling-Hammond,
+2010; Wang et al., 2010). The outcome of tighter integration between theory and practice is better
+prepared teacher candidates who are more likely to overcome the challenges of “enactment” in
+complex classroom environments and ultimately improve student learning (Hammerness et al., 2005).
+Grossman and colleagues (2009) provide a framework that is assistive in thinking about redesigning
+coursework and restructuring teaching to reflect a practice-based theory. Drawn from a study of how
+beginning professionals best learn the core practices of their chosen profession, Grossman and
+colleagues identified three key and interrelated concepts to guide university teaching: representations,
+decomposition, and approximation of practice.
+Representations of practice are utilized to examine and analyze the visible and invisible aspects of a
+practice and help novices develop a more concrete and robust understanding of a given practice.
+Representations for teacher education often include case studies, examples of student work, lesson and
+unit plans, video, observation, and modeling a practice. When using representations of practice, an
+important role of the instructor is to help reveal the nuances that a novice would not observe, such as
+teacher thinking and decision making.
+Decomposition involves breaking down a complex practice into the constituent parts.
+Decomposition is used to isolate, identify, and then practice the different components of a core practice.
+Decomposition provides a process for scaffolding the development of a complex practice. Then, the
+practice is “recomposed” from component parts back to the whole. Examples of decomposed practice
+include focusing on specific elements of lesson plans such as practicing and analyzing lesson openings
+and closing; or identifying and practices different aspects of a read aloud such as reading with
+expression or asking engaging questions. Over time, the fully integrated, or “recomposed,” practice
+should become a routine.
+Approximations provide opportunities to enact a complex teaching practice outside of the K-12
+classroom context. Practice opportunities in the university setting allow novices to implement a specific
+practice, such as guided reading, from start to finish without the added challenge of managing and
+responding to events that occur in a classroom of children, while also receiving targeted feedback on
+their performance. As such, approximations can help a novice feel more secure and steady in
+implementation prior to enacting a practice with a group or classroom of children.
+For teacher educators to apply a practice-based approach, they need to understand how the
+practices they teach are enacted in the field settings in which their teacher candidates are placed and
+understand the challenges of enactment. By developing a more contextualized and nuanced
+Research Residencies
+Volume 38, No. 1 • Spring, 2014
+understanding, faculty are more likely to select and create the representations, decompositions, and
+approximations of practice that are more likely to improve teacher candidates’ learning and foster
+transfer. Yet, structural and cultural factors tend to inhibit faculty’s capacity to improve upon their
+coursework.
+
+
+
+
+
+Abstract
+School systems have access to more data than ever before, but most teachers and school leaders
+lack the skills to use the data for student and school improvement. Current attempts to use data have
+lacked depth and have been more focused on accountability and meeting state and federal requirements
+than on systematically investigating the factors that support and hinder the teaching and learning
+process. As a result, the potential benefits of data usage have not been realized. This commentary
+examines the critical issues facing school leaders concerning data-informed decision-making based on
+existing research and firsthand experience working with school principals.
+Individuals in many professions routinely use data as a basis for assessing progress and
+making quality decisions. For example, data play an essential role in medical diagnosis and
+treatment, engineering, and automobile manufacturing. Educators often report that we cannot
+rely on data to solve the challenges students face in the learning process, because in fact
+students are too complex (Wayman & Stringfield, 2006). I acknowledge the complexity of the
+teaching and learning process, but I maintain that using data appropriately can inform and
+improve the process.
+Of course, in the age of the No Child Left Behind Act (NCLB), the phrase “data-informed
+decision-making” has become part of the lexicon of the American educator. The importance of
+using data is now taken for granted as an essential component of any educational
+improvement process. School district superintendents consistently report data use as the most
+important strategy for addressing NCLB, state accountability systems, and the constant
+pressure to improve student achievement (Coburn & Talbert, 2006; Means, 2009).
+The use of data as a tool to drive school improvement is not a new phenomenon. Earlier
+reform movements, such as A Nation at Risk in the 1980s (Gordon, 2006) and Goals 2000 in the
+1990s (Zhao, 2009), also stressed the importance of using data in making educational decisions
+and assessing educational progress. However, due to both technological advances and the
+mandates of NCLB, there is more data available now than ever before, and the emphasis
+placed on data has grown. One particular type of data, student achievement data in the form
+of high-stakes standardized tests, has become particularly important. While multiple measures
+are advocated, student achievement scores remain a primary indicator of student, teacher,
+principal, school, and district effectiveness (Cravens, Chen, Porter, Elliott, & Carson, 2009;
+John Murray
+The Professional Educator
+Leigh, 2010). Furthermore, student performance on standardized tests also influences real
+estate values and the overall vitality of a community (Nguyen-Hoang & Yinger, 2011).
+The use of data, particularly if only one type is being used, is not a panacea for school
+improvement. As Means’ (2009) national study found, school systems have access to more data
+than ever before, but most teachers and school leaders lack the skills to use the data for student
+and school improvement. Current attempts to use data have lacked depth and have been more
+focused on accountability and meeting state and federal requirements than on systematically
+investigating the factors that support and hinder the teaching and learning process. As a
+result, the potential benefits of data usage have not been realized. We know that teachers,
+school leadership, curriculum, and community involvement all influence student learning.
+Properly utilized, data can help educators better understand how these dimensions influence
+student achievement in a particular context. Multiple types of data should be used, and data
+should become a mechanism to connect student performance with curriculum, instruction,
+remediation, acceleration, teacher professional development, and the allocation of fiscal and
+human resources for school and district improvement (Campbell & Levin, 2009).
+A body of research is emerging on data use in schools. Much of the research to date has
+dealt with specific areas of schools, such as teachers (Lachat & Smith, 2005; Schildkamp &
+Kuiper, 2010), principals (Supovitz & Klein, 2003; Wayman, Cho, & Johnston, 2007), and the
+central office (Honig & Coburn, 2008; Moll, 2009). Additionally, a growing research base is
+available to help teachers understand educational data use systemically. Scholars are
+examining ways to use data to align, integrate, and support various components of a school
+district so that the entire district is a more coherent, data-using organization. Knowledge from
+these studies suggests that integrated, districtwide data use can be better accomplished by
+aligning vision, practice, and data (Supovitz & Klein, 2003; Wohlstetter, Datnow, & Park,
+2008), focusing on leadership at multiple levels (Halverson, Prichett, Grigg, & Thomas, 2005;
+Mandinach, Honey, Light, & Brunner, 2008), efficiently integrating technology (Wayman,
+Conoly, Gasko, & Stringfield, 2008), and emphasizing professional development (Datnow,
+Park, & Wohlstetter, 2007).
+Still, there is much to learn about how school districts may make better use of data. For
+example, we still need to determine the essential components involved in school leaders
+efficiently and effectively accessing, generating, managing, interpreting, and acting on data. In
+this commentary, I examine the critical issues facing school leaders concerning data-informed
+decision-making based on existing research and my experience working with principals,
+central office personnel, and state department of education personnel in a southeast state.
+Clarifying the Role of Data
+The presence of common understandings about educational goals and practices is an
+important aspect of organizational improvement. The function and role of data in the school
+improvement process is often poorly defined, leading schools and school leaders to be
+confused about how and when to use specific types of data. As Wayman and Springfield
+Critical Issues Facing School Leaders
+Volume 38, No. 1 • Spring, 2014
+(2006) have argued, a common understanding of the role of data is critical if it is to be used to
+improve schools and student achievement.
+There are several important elements involved in clarifying the role of data. It is first
+important to be clear about whether decisions will be data-driven, data-based, or datainformed.
+I support the argument advanced by Shen and Cooley (2008) that data should
+inform rather than drive decisions. Data can serve as an important element in effective
+decision-making, but educators should not entirely base their decisions on data. Education is a
+human enterprise involving children, and data fail to give educators all of the information they
+need to help children learn.
+Second, it is important to take a systemic, continuous improvement approach to data
+analysis. Educators should gather and analyze data to gain a better understanding of the
+system that is producing the current results in a school or district. Then they can use the data
+to continuously improve the system and, ultimately, enhance student learning. By “system” I
+mean all the processes and procedures that influence student learning. Systems thinking
+(Senge, Cambron-McCabe, Lucas, & Kleiner, 2000) is about viewing the whole and the interrelationships
+of the parts of the whole to each other. From a systems thinking perspective,
+most differences in student performance are due to the system, not the individual student. In
+other words, it is important to look not only at the material presented but also the ways in
+which it is presented.
+Third, data collection and analysis must be firmly connected to guiding questions posed
+and answered by teachers and other school leaders. Teachers and other school leaders must
+specify what they want to know about their school and students, and must know why the
+information is needed. In addition, they must determine what types of data they need to
+answer their questions. By keeping the focus on guiding questions developed and answered
+by school staff and administrators, data collection and analysis has a clear purpose. After all,
+“data, alone, are not evidence of anything until users of the data bring concepts, criteria,
+theories of action, and interpretive frames of reference to the task of making sense of the data”
+(Knapp, Swinnerton, & Copland, 2006, p. 10). Several studies have confirmed that when school
+staff work together to develop guiding questions and select data collection approaches, they
+have a better understanding of the role of data, and they remain more focused on the
+connection of different types of data to student achievement (Langley, Moen, Nolan, Nolan,
+Norman, & Provost, 2009; Wayman, Cho, & Richards, 2010).
+
+
+
+
+Abstract
+Within the realm of K–12 education, instability is an inherent feature that school leaders must successfully
+manage. Turbulence, in the form of micro-level issues (day-to-day, in-house happenings) and macro-level
+concerns (externally imposed organizational disturbances/changes), develops indiscriminately and may escalate
+quickly without adequate warning. Therefore, it is necessary to understand the means by which a school leader
+can moderate the school atmosphere. This paper reveals the decisions, devices, and behaviors of one school
+principal who worked to minimize the effects of turbulent conditions in the senior high school setting. The
+findings illuminate particular leadership tools and actions that may be of assistance to school leaders who seek to
+better stabilize their schools.
+Introduction
+Turbulence is an inherent feature of the public school and is something that school leaders must
+successfully manage. As Gross (1998) explained, there are many sources of turbulence that may arise,
+including a disjointed community, isolation, issue overload, tension-filled conditions, loss of support,
+communication problems, rapid changes, value-conflicts, and external pressures.
+According to Gross’s (2006) turbulence theory, the concept of positionality is important, since where a
+person stands in relation to the turbulence will determine how he or she experiences it. This is because
+turbulence “is not usually spread around the school and community in a uniform way” (Gross, 2006, p.
+56), and the school principal’s position lends to a preoccupation with many of the conflicts that develop
+within the organization. Unfortunately, such conflicts may cluster at any given time, and these
+combined forces or events may become formidable, as they create a cascading effect that escalates the
+level of turbulence that the school faces (Gross, 2006; Shapiro & Gross, 2013). For the school leader, the
+cascading effect is something that is often very real and may require a high capacity for management,
+decision-making, and action. Furthermore, the school leader must consider when to deliberately
+heighten the level of turbulence within the organization, for the purpose of gaining positive results in
+pursuing particular goals (Shapiro & Gross, 2013).
+Along with the school principal’s role and expertise in handling turbulence, the school’s stability
+will determine whether it can withstand heightened levels of turbulence. The school’s stability level
+depends on past and present circumstances, members’ confidence in the inherent worthiness of the
+organization, and the school’s ability to be flexible while turning turbulent experiences into
+opportunities (Gross & Shapiro, 2013).
+Purpose of the Study
+The purpose of this study was to examine the workings of a school principal who sought to manage
+turbulence within the senior high school environment. The study explores the lived experiences of the
+Edward L. Myers
+The Professional Educator
+leader, subordinates, and stakeholders who were involved with the school organization. The focus is
+on gaining an understanding of the school principal’s intentions, and then examining his actual
+leadership decisions and behaviors, as experienced by school stakeholders.
+Specifically, this study seeks to reveal whether the school principal was able to successfully lead the
+school organization during times of heightened turbulence, and to determine what allowed or
+disallowed him to do so. The perceptions of administrators, teachers, staff, parents, community
+members, and recent graduates were utilized to gather an understanding of the principal’s leadership
+behavior. This process was set to generate an understanding of how leader competencies and
+organizational behavior relate to the management of turbulence within the school environment.
+A Primer on Turbulence within the School Organization
+Putnam (1991) revealed that, “within any environment, there are areas of calm, agitation,
+opportunity, and danger – as well as areas of unknown risks. Because of these coexisting but conflicting
+elements, all environments are turbulent” (pp. 1–2). As an aggregate of uninhibited forces arise, the
+degree of instability increases (Putnam, 1991). However, with the right decisions, skills, and actions, a
+school can appropriately harness turbulence within the organizational environment (Gross, 2006;
+Putnam, 1991; Shapiro & Gross, 2013).
+Intertwined with turbulence is the concept of change, which is fundamental to school leadership in
+the 21st century. According to Fullan (2009), school principals have the difficult task of managing two
+different worlds:
+The old world is still around, with expectations that the principal will run a smooth school and to
+be responsive to all; simultaneously, the new world rains down on schools with disconnected
+demands, expecting that at the end of the day the school constantly should be showing better test
+results and ideally becoming a learning organization. (p. 57)
+With this “double world” comes the paradox effect, which, as Jaffee (2001) discusses, “stems from the
+multiple consequences of a single action which seem to contradict or work at cross-purposes with
+another” (p. 34). Even with the best of intentions, the actions of a school principal within such a world
+create a natural tension, as both positive and negative organizational effects occur (Jaffee, 2001).
+More than two decades ago, Morgan (1988) accurately predicted the 21st century management
+world, which consists of tension, ambiguity, and paradox, and proposed that managers must cope with
+chaotic, ambiguous situations through creative actions and solutions. Morgan also explained the
+necessity for managers to understand that complexity is innate to the leadership game:
+Many managers may want simplicity, but the reality is that they have to deal with complexity. The
+complexity of organizational life is increasing rather than decreasing, as manifested in the
+conflicting demands posed by multiple stakeholders, the need for managers to deal with many
+things at once, and the almost continuous state of transition in which organizations exist. (p. 12)
+Quite possibly, the school organization stands as the most appropriate venue for Morgan’s
+thinking. This is due to the multiplicity of issues and concerns that need to be addressed within the
+educational domain (Beck, 1994; Blankstein, 2004; Gross, 1998; Sernak, 1998; Shapiro & Gross, 2013).
+Taming Turbulence
+Volume 38, No. 2  Fall, 2014
+Fullan (2009) outlines various forces of turbulence, fragmentation, and change that mark today’s typical
+educational institution, including a lack of coherence in mission; disconnections within the school
+curriculum; incomplete and/or insufficient teaching modalities; student alienation and strained
+relationships; an anti-intellectual peer culture; and a lack of student support and attention due to large,
+overcrowded schools (p. 42).
+While high levels of turbulence are very real within today’s K–12 school system, Sergiovanni (2005)
+argues that, with the right mix of values, systems, structures, and actions, school leaders hold the
+capacity to successfully defend against the obstacles they face as they work to improve their respective
+schools. From this perspective, various authors have offered their views on how to best manage the
+forces of turbulence, change, and paradox within school organizations (Fullan, 2010; Kochanek, 2005;
+MacGilchrist, Myers, & Reed, 2004; O’Donoghue & Clarke, 2010; Schlechty, 2005). In fact, various
+conceptual ingredients have been offered for managing, leading, and improving school organizations
+in turbulent times. Included in the mix are such terms as networked organizations, distributed leadership,
+professional learning communities, ethical decision-making practices, operational intelligence, collective
+capacities, teacher leadership, and systemic vision (Fullan, 2009; Gabriel, 2005; Kochanek, 2005; Lambert,
+2003; Lunenburg & Irby, 2006; MacGilchrist, Myers, & Reed, 2004; O’Donoghue & Clarke, 2010; Strike,
+2007). While some of these focus on the decisions and actions of the school leader, others center on
+more global organizational behavior.
+In light of the modalities school leaders currently have available to them during turbulent times,
+there is an urgent call to microscopically study the actualities of school leadership practice in today’s
+schools. This is due to the sociopolitical conditions that have made turbulence and change very real to
+the educational arena in the 21st century. To better understand the attributes, proficiencies, and
+limitations of school leadership practice, it is necessary to analyze the activity that plays out in K–12
+public school settings. By doing so, scholars and practitioners can better understand what is being done
+to combat the turbulent forces currently disrupting the educational process. In turn, school leaders,
+scholars, and practitioners can learn lessons in educational leadership through real-world scenarios.
+
+
+
+Abstract
+Professional development school partnerships can improve teaching and learning in our schools. To support
+these partnerships, the National Council for the Accreditation of Teacher Education (NCATE) developed
+standards for professional development schools. In this article, we address the questions, “What NCATE
+standards work from the point of view of school principals and university faculty members when sustaining PDS
+partnerships?” and “How can universities improve PDS implementations so that all partners see the benefit of
+each NCATE standard?” Although, there is wide agreement between school leaders and university faculty on the
+importance of the standards, there are also some notable differences in their functionality.
+There is no doubt that a “fully functioning” professional development school (PDS) partnership can
+improve teaching and learning in our schools (Darling-Hammond, 2005; The Holmes Partnership, 2006;
+Levine, 2006; Tetiel, 2004; Van Scoy & Eldridge, 2012). These improvements manifest themselves in a
+variety of ways including, improved student achievement, powerful professional development
+opportunities for classroom teachers, and unique opportunities for undergraduate teacher candidates
+to learn their craft in a nurturing environment (Darling-Hammond & Baratz-Snowden, 2005; NCATE,
+2006). School principals, district leaders, and university professors have opportunities to create
+meaningful partnerships that enhance both the school district and the university. However, building
+and sustaining quality professional development schools can be a challenge. Turnover in district and
+school-based leadership, changing areas of focus by universities or state policymakers, and limited
+financial and human resources can all place stress on a partnership. Having clear partnership
+expectations and lines of communication between the professional development school and the
+collaborating university are key to sustaining a meaningful partnership (Doolittle, Sudeck & Rattigan,
+2008).
+The National Council for the Accreditation of Teacher Education (NCATE) has developed
+standards for professional development schools (Table 1) that have been broadly accepted in the
+educational community (NCATE, 2001a). These standards are important in several ways. First and
+foremost, the standards address the essential characteristics (critical attributes) of a PDS (Brindley,
+Field, & Lessen, 2008). Second, the standards have been instrumental in bringing about a general
+consensus within the profession regarding the definition of a professional development school. Third,
+the standards are designed to accommodate the developmental nature of PDS partnerships and include
+guidelines meant to support PDS development and implementation across various levels. Finally, the
+standards provide a common framework across partnerships for investigating PDS outcomes, assessing
+PDS quality, and promoting continued partnership development through self-study (NCATE, 2001b).
+
+
+
+
+Abstract
+This is a study of teachers’ visions. Five participants were followed through their pre-service years in the
+teacher education program and into their first year of teaching to see if their vision was sustained and whether it
+appeared in their practice. This paper describes the coding process for visions and discusses changes that occurred
+in the visions as participants made the transition from pre-service to in-service teachers. The paper discusses
+dissonance between visions and practice and presents implications for teacher educators.
+As a teacher educator, I continually explore how to more successfully prepare high-quality reading
+teachers who not only know how to teach reading effectively but also possess a vision of their practice
+and reading instruction. Teacher visioning is a concept in teacher education that has garnered
+significant attention from teacher education and literacy scholars in recent years (Bransford, Derry,
+Berliner, Hammerness, & Beckett, 2005; Duffy, 2002; Fairbanks, Duffy, Faircloth, He, Levin, Rohr, &
+Stein, 2010; Gambrell, Malloy, & Mazzoni, 2011; Hammerness, 2006; Kennedy, 2006; Shulman &
+Shulman, 2004; Vaughn & Faircloth, 2011). Visions are images of ideal practice that guide teachers’
+instructional decision-making and provide them with a touchstone for measuring their pedagogical
+efforts (Hammerness, 2006; Shulman & Shulman, 2004).
+Research on visioning that follows pre-service teachers into their in-service years is currently
+limited to two studies: Rattigan-Rohr (2005) and Hammerness (2006). Rattigan-Rohr studied
+prospective teachers’ initial and final vision statements during their introductory teaching class in their
+sophomore year prior to declaring education as their major. She found that the majority of prospective
+teachers did not have visions for teaching when entering the introductory class, and their visions seem
+to be shaped by the course experiences, particularly by the field experience component of the course.
+Rattigan-Rohr categorized visions as being moral or intellectual, based on the existing literature.
+Hammerness followed student teachers into their first few years of teaching and reported the focus of
+the visions and the influence of the visions’ attainability on teaching. She found the distance between
+vision and teaching context either sustained or led to discouragement with teaching. The attainable
+vision sustained and inspired teachers, while visions that were seemingly distant from reality or in
+opposition with mandates led to discouragement and career moves (Hammerness, 2006, 2008).
+As teacher educators, however, we have limited data regarding the sustainability of those visions,
+particularly those developed within teacher education programs. This article reports results from a
+longitudinal teacher education study that examines the visions of pre-service teachers in their junior
+and senior years through their first year of teaching.
+Problem
+This study examines whether pre-service teachers’ visions are enacted in the lessons they teach for
+literacy methods courses and whether their visions are sustained and enacted in literacy instruction
+during their first year of teaching. This study has implications for determining how teacher education
+influences teachers’ visions (Shulman & Shulman, 2004) and whether visions developed in pre-service
+education are sustained. Two questions propelled this study:
+1. What is the focus of pre-service teachers’ visions?
+2. How are pre-service teachers’ visions evident in their reflections on the teaching of literacy and
+in their first year of teaching?
+Theorizing Teacher Vision
+Over the past several years, teacher visioning has garnered significant scholarly attention
+(Bransford et al., 2005; Fairbanks et al., 2010; Gambrell, Malloy, & Mazzoni, 2011; Hammerness, 2006;
+2008; Kennedy, 2006; Shulman & Shulman, 2004; Vaughn & Faircloth, 2011). Researchers have defined
+a “vision” in teaching in several different ways; however, a common theme emerges. Briefly, theorists
+present a vision as a source that inspires teachers and guides their classroom instruction (Duffy, 2002;
+Gambrell, Malloy, & Mazzoni, 2011; Feiman-Nemser, 2001; Hammerness et al., 2005; Hansen, 2001;
+Lampert, 2001; Shulman & Shulman, 2004).
+Rattigan-Rohr (2005) pulled from the research literature to define a teacher’s vision as a personal
+moral compass directing teachers to shape their practice and to act in ways they believe will positively
+benefit students. Possessing a vision, therefore, is an individual teacher’s commitment to a morality
+that goes beyond traditional curricular goals and acknowledges that teaching children also includes a
+responsibility to develop larger understandings and attitudes. Duffy (2005) calls vision a “moral
+compass” because visions create a conscious awareness of how teachers wish to touch the future.
+Similarly, theorists describe the call to teach as a mindset through which teachers create a vision of
+who they are and by which they make decisions to engage in constructivist or other forms of highly
+engaged teaching (Gambrell, Malloy, & Mazzoni, 2011; Garrison, 1997; Shulman & Shulman, 2004).
+Garrison (1997) argues that outstanding teachers not only answer the call to teach but that they
+“become this call…with persistence and care” (p. 74).
+In addition to a moral purpose, researchers conclude that the exceptional teacher also develops a
+vision with a strong intellectual purpose; this teacher develops a vision that seeks to create conditions
+that will stir children’s capabilities to achieve enhanced learning (Cuffaro, 1995; Gambrell, Malloy, &
+Mazzoni, 2011). Also, effective teachers are most often the ones who can be found working hard to
+ensure that their classroom practices are securely rooted in intellectual honesty and integrity (Ball,
+1993; Lampert, 2001). As a matter of course, visionary teachers appear to be constantly seeking to find
+new and different ways to help their students learn and grow (Gambrell, Malloy, & Mazzoni, 2011).
+They know that finding new strategies and methods requires both growing and the “letting go” of
+favorite and long-accustomed techniques (Hammerness et al., 2005). We understand then that teachers
+with visions work hard to ensure their students are able to acquire insights into themselves and their
+world.
+Wood, Nelson, and Warfield (2001) lamented what they saw as the deficiency of an intellectual
+focus and the lack of movement toward a “well-articulated vision” by many teachers of mathematics
+(p. 12). They noted their view of the benefits of an intellectual vision for the development of
+mathematics instruction. In such a vision, teachers would focus the teaching on understanding and
+reasoning, and on high standards of achievement. They also noted, however, that in classrooms where
+this kind of well-articulated intellectual vision is missing, low-level instruction continues to dominate.
+A Vygotskian social constructivist perspective serves as a theory underlying how visions develop.
+Learning is more fully facilitated in the social context (Vygotsky, 1981). That is, pre-service teachers
+have had their entire career as students to observe teachers at work, a process Lortie (1975) labeled
+“apprenticeship of observation” (p. 61). Therefore, whatever understanding pre-service teachers
+construct about their developing visions has two components: (a) the thoughts or mindset they brought
+with them to the teacher education program, and (b) some possible adjustments and/or additions to
+those thoughts based upon what they learned in the social environment of the teacher education
+program.
+A fundamental idea to this Vygotskian social constructivist perspective is the concept of the zone of
+proximal development (ZPD) (Vygotsky, 1978). According to Vygotsky, the ZPD is the space between
+what one actually knows and what one potentially could know, as determined through problem
+solving under the influence of a more knowledgeable person. Therefore, the development of preservice
+teachers’ visions is likely influenced by contacts with various perspectives, presented to them
+within their ZPD, including information from readings, contact with teachers in field experiences,
+discussions about visions, interactions with peers, and other teacher education activities.
+The expectation from this line of reasoning is that pre-service teachers link social and external
+interactions to their own internal developing visions for teaching (Forman & Cazden, 1985), which
+influences their thinking (Hughes, 1958). In the pre-service years, students wrote a vision statement
+upon beginning a new semester in the teacher education program. After readings, lectures, discussions,
+and field experiences, students continued to refine and refocus their vision statements. Consequently,
+pre-service teachers revised and refined their vision statements multiple times over two years.
+
+
+
+
+Abstract
+Across the nation, educators continue to face challenges as they work to individualize instruction to meet
+the specific needs of their students. However, theory suggests that teachers who possess a clear vision for teaching
+creatively weave their personal convictions for teaching with instructional practices. Drawing upon a teacher’s
+(first author) account of her vision and the classroom literacy practices structured over the course of one year, a
+practical approach is taken to address teacher visioning as a way to sustain teachers’ creativity despite the
+pressures associated with teaching in today’s educational climate.
+Recent educational reform efforts (see Race to the Top, 2009) continue to pressure educators to
+teach according to standardized curricula despite the fact that such efforts have been proven to fail
+many of the nation’s students (Good, 2011). In contrast, scholars contend that by following one’s
+vision, teachers may be able to “speak back” to institutional directives and therefore more easily meet
+the individual needs of their students (Achinstein & Ogawa, 2006; Duffy; 2002; Hammerness, 2003;
+2006; Vaughn & Faircloth, 2011). By creating a vision for teaching, educators are able to craft an “ideal
+image” of what it is they wish to accomplish in their classrooms and use this to sustain them
+throughout their teaching career (Hammerness, 2006). Teachers who enact a clear vision are often able
+to “adjust, modify, and invent” (Duffy, 2002, p. 333) as they use their vision to guide their work. Much
+like “a mirror… teachers [use] their vision and recognize successes as well as identifying areas for
+improvement” (p. 3). Gambrell and her colleagues (2011) support this claim as they suggest that
+“without a vision the teacher is left to sway and sputter as a candle facing the winds of curricular
+change and federal, district, and school level impositions” (p. 18). A teacher’s vision is therefore,
+arguably, an essential tool in classrooms today.
+Like many educators across the nation, I (first author) was frustrated with my district and my
+principal’s efforts to enforce prescribed educational policies that did not fit the individual needs of my
+students. I conducted this self-study research project as a way to explore my vision for teaching, the
+way it was enacted, and to understand the relationship between these foundational variables and my
+students’ literacy experiences. At the time of the study, I was a beginning doctoral candidate at a
+university in the southeastern part of the United States. This study began as a course assignment and
+was then extended to further examine how I worked to enact my vision despite teaching in a restrictive
+climate. The research questions guiding this study include:
+1. What were the salient dimensions of my vision?
+2. How were classroom activities structured to meet this vision?
+3. In what ways did my students experience literacy (both their practices and their responses) as
+my vision was enacted?
+In this article, I share my reflections about my teaching over the course of one year and focus on the
+ways in which I negotiated my vision for teaching literacy within the curriculum, as well as the ways in
+which my students participated in these literacy activities. Although I taught in a school that
+recommended scripted curricula, I adapted and modified the curriculum based on my vision to meet
+the individual needs of my students. I provide insight into my understandings about my teaching
+practice and suggest that through doing research of one’s classroom practice, educators may sustain
+their vision and continue to grow.
+Related Literature
+Many scholars have noted the ways in which prescriptive literacy programs restrict teacher
+autonomy and creativity (Dooley & Assaf, 2009; Pearson, Raphael, Benson & Madda, 2007; Vaughn &
+Parsons, 2012). Although such prescriptive measures have served to limit teachers’ instructional
+decisions, the impact on student achievement has also generated a dismal picture. Results from the
+U.S. Department of Education’s National Center for Education Statistics (NCES) found that during the
+time federally approved prescriptive literacy programs flooded the nation, the achievement gap in
+reading grew wider from the start of kindergarten in fall 1998 to the end of 3rd grade in spring 2002.
+More recently, according to the 2011 National Assessment of Educational Progress (NAEP), the average
+fourth grade and eighth grade reading scores remained unchanged from 2009 scores. Such results
+suggest that despite federal mandates to increase student achievement in literacy, the efforts have not
+produced significant gains.
+In contrast, scholars theorize that teacher visioning may be a way to empower educators, giving
+them a voice against institutional directives that have limited teachers’ instructional decisions (Duffy,
+2005; Hammerness, 2008; Vaughn, 2013). These studies suggest that as teachers use their vision to
+make decisions, they work to provide instruction they believe best fit the individual needs of their
+students, classrooms, and school community. According to Hammerness (2006), visions “…can help
+reveal how teachers conceive of their subjects and their students and how much they pay attention to
+each” (p. 6). Taken together, visioning suggests a viable tool to empower today’s educators to teach
+according to their personal convictions and beliefs of what works best for their students.
+Researchers have begun to examine how even very young students participate in reading activities
+during teacher-led literacy activities, often examining how students perform during such activities
+(Davis, 2007; Sipe, 2000). Toth, Dobo-Tarai, and Revak-Moarkoczi (2007) found that first graders
+provided detailed knowledge of complex concepts when interviewed of their understandings.
+Similarly, Dyson (1997), in her important work with young kindergarten students, found that young
+readers and writers described detailed stories about their out-of-school lives and provided clear
+understandings and beliefs about literacy. Building from this, the current study explored first graders’
+reactions to literacy instruction through the use of interviews and observations as a way to fully
+explore their engagement in and reaction to literacy activities and to contextualize my vision within the
+classroom.
+Like many educators, while I had confidence in my vision, my vision was at odds with my school’s
+recommendations. At the time, my colleagues and I were strongly encouraged to use the same scripted
+literacy program and to level students according to designated labels (high, medium, and low) in an
+effort to send them to different classrooms for ability-based reading instruction. The school claimed
+this practice was grounded in research and would increase students’ test scores on the state-mandated
+Developmental Reading Assessments (DRA; Beaver, 2006) that were given to first graders. I argued
+against this practice because I was opposed to labeling students as low, medium, and high. Based on
+my teaching experiences, such designations lowered students’ confidence, turning reading into a
+competitive activity, and it appeared to create barriers for students. Students seemed to live up to that
+expectation, often believing that reading was not something they could or should do.
+Additionally, teachers in grades kindergarten through second grade were pulled from their
+classrooms in the spring to conduct test preparation with the third through fifth grades. The
+administration suggested these grades needed remedial support to pass the state’s assessments.
+Because of this, K–2 teachers were pulled each day over the course of 3 weeks, during their literacy
+block, to conduct small-group “skills and drills” lessons with upper elementary students. This testing
+blitz sent a message to K–2 that high-stakes testing was perhaps more important than the literacy
+instruction in the lower grades. During this time, teaching assistants were asked to conduct literacy
+instruction. Additionally, I was opposed to this practice because believed that a “skills and drills”
+approach was not providing students with the necessary support they needed. Moreover, this
+approach to teaching was very distant from instructional practices I believed fit with my vision. As
+such, the emphasis on testing and teaching using this approach proved to be an obstacle that conflicted
+with my vision for teaching. In contrast, I wanted students to develop at their individual pace while
+participating in the literacy curriculum. Thus, I did not use the scripted curriculum program
+recommended by my principal and used by my colleagues. In doing so, this brought conflict, but I
+worked to develop instruction to meet my vision.
+
+
+
+
+Abstract
+This paper presents findings from a study surveying student teachers (N = 128) from two universities
+who reported a significantly greater influence by university-based supervisors on their teaching when they had
+taken a class with the supervisor prior to student teaching. The student teachers were more likely to report
+implementing university teachings and using supervisors’ advice than if they had not taken a class with that
+supervisor. These findings have important implications as they suggest a greater transfer of learning from the
+university to the classroom, producing student teachers who are willing to incorporate and implement universitybased
+practices in a new context.
+The No Child Left Behind (NCLB) mandate for more highly qualified teachers has forced teacher
+preparation programs to reflect, rethink, and reform their methods for training new teachers. New or
+additional classes, higher standards, and increased numbers of standardized tests (e.g., Praxis exams)
+are all being implemented in an effort to develop stronger, more effective programs with the
+expectation of improving teacher quality and student achievement.
+Student teaching, often the culminating experience of preservice teachers’ education, allows
+students to connect research to practice in an authentic setting (Zeichner, 2002). Thus, strengthening the
+student teaching experience is viewed as a key component to improving teacher education. Ongoing
+partnerships with schools, full-year internships, pre-student teaching placements, and extended field
+experiences are among the efforts to reform and improve the student teaching experience (e.g.,
+McKinney et al., 2008; Devlin-Scherer, Mitchel, & Mueller, 2007; Latham & Vogt, 2007).
+Additionally, in an effort to nurture and secure master cooperating teachers, education programs
+are attempting to raise the bar regarding who can qualify as a cooperating teacher. Prior research
+indicates that cooperating teachers are seen as the most important figure in student teaching because
+student teachers often emulate their cooperating teachers, even when the instructional methods conflict
+with what is taught at the university (Glenn, 2006; Koeppen, 1998; Metcalf, 1991; Su, 1992; Zheng &
+Webb, 2000). For example, Bates and Burbank note that “student teachers quickly accommodate to
+classroom practices…without considering the impact on student learning” (2008, p. 31). The student
+teachers often believe that the classroom teachers have “real” experience and know better than their
+university education faculty (Marks, 2002).
+The role and influence of the university supervisor within the student teaching process is
+frequently ignored or discounted, often by both the student teacher and the cooperating teacher
+(Marks, 2002). A lack of impact on the student teacher has led some researchers to imply that university
+supervisors are superfluous (Metcalf, 1991; Zeichner & Gore, 1990). Instead of providing additional
+insights and support, university supervisors are viewed as “inspectors” rather than collaborative
+Kristen N. Asplin & Melissa J. Marks
+The Professional Educator
+partners (Ongel, Capa, & Vellom, 2002) and are seen as less qualified than cooperating teachers to
+grade student teachers (Zheng & Webb, 2000). Research on improving communication among the triad
+of student teacher, university supervisor, and cooperating teacher, or balancing this triad’s power
+structure, has often indicated that the university supervisor is the weak link (Silva, 2000; Tsui et al.,
+2001; Wilder & Croker, 1999).
+The other side of the debate posits that university supervisors are very important in “supporting
+student teachers’ implementation of recent reforms and theories learned in coursework” (Fernandez &
+Erbilgin, 2009, p. 94). This transfer of learning from the university to the classroom can be impacted by
+university supervisors when: (a) a positive relationship exists between the student teacher and the
+supervisor; (b) the student teacher recognizes the supervisor’s expertise and professionalism; (c) the
+supervisor is accessible; and (d) the supervisor consistently holds the student teacher to university
+expectations as they are expressed in university education classes or in a student teacher handbook
+(Marks, 2002). Additionally, university supervisors appear to provide emotional support needed for
+student teachers to acclimate to the initial hurdles encountered in student teaching (Caires, Almeida, &
+Martins, 2010; Caires & Almeida, 2007). More generally, instructors fulfill a variety of roles that can
+influence student teachers. They serve as experts on course content, as learning facilitators, curriculum
+developers, mentors and role models, resource providers, and supporters and nurturers of students.
+An effective student-teacher relationship can have a pervasive impact on the social, emotional,
+cognitive, and behavioral lives of students. Student teachers considered their university supervisors’
+“personal features,” including being supportive, non-judgmental, and helpful, to be essential to
+overcoming obstacles and maintaining their emotional balance during student teaching (Caires &
+Almeida, 2007).
+In clinical psychological research, the concept of therapeutic alliance suggests that the relationship
+between the counselor and the client is a key factor in the success of therapy (Krupnick et al., 1996).
+Similarly, the bond between instructor and student may enrich and influence the student’s life and may
+also lead to an increased amount of transfer from that instructor’s teaching to the student’s own
+classroom practices. This bond may be especially important because the social and emotional
+experiences upon entering student teaching are often unexpected by the student teacher. Their selfview
+as teachers change due to the “reality shock” (Caires et al., 2010). Their high self-expectations and
+belief that “they know and control all the facets of the profession and of the school ethos” (Fernandez &
+Erbilgin, 2009, p. 17) are challenged by the realities of the classroom. These changes in self-perception
+leading to teacher socialization can be attributed to the Sociocultural Theory of Learning (e.g.,
+Vygotsky, 1934/1962).
+According to the Sociocultural Theory, knowledge about teaching is socially constructed between
+the learner and the community around them: Preservice teachers are processing ideas, beliefs, and
+practices from the communities in which they are involved. While at the university, this community
+consists of faculty, fellow education students, and other university-based inputs. Once in the school
+classroom, however, the context that the student teacher operates in has changed. Now their
+community consists primarily of classroom teachers, students, and parents.
+While the university supervisor bridges these communities, the influence of his or her “voice”
+within the student teaching community is ambiguous. With the overall goal of investigating whether
+certain university procedures can increase the influence and effectiveness of the student teaching
+experience, two intermediate questions became the focus of our study. First, is there a difference
+Increasing University Supervisor Influence
+Volume 37, No. 1 • Spring, 2013
+between student teachers who had previously taken a class with their university supervisor compared
+to those who had not in regard to the student-teacher relationship; willingness to take advice;
+likelihood of the using university-taught methods; and overall perception of the university supervisor’s
+knowledge of pedagogy, content, and the “real” classroom? Second, is there a correlation between
+student teachers’ relationships with their university supervisors and their likelihood of using
+university-taught methods in their classrooms, accepting their university supervisors’ advice, and
+valuing their university supervisors’ knowledge? These two questions taken together show how the
+relationship between supervisors and student teachers affects the transfer of learning from university
+to school classroom and thus shed light on the effectiveness and influence of university supervisors.
+
+
+
+
+Abstract
+Given the powerful influence of past school experiences on the ways in which future teachers decide to teach,
+it is important to help preservice teachers more deliberately and critically explore the implications of those
+influences. This study grew out of an assignment in which 38 secondary education majors were asked to describe
+high school teachers they remember as being their favorite teachers and their most effective teachers. There was
+some overlap between the categories, but more often than not teachers who were considered “favorites” during
+high school were now seen as having ‘defaulted on their responsibility to educate and supervise, to open minds
+and challenge ... students.’ Although the responses yielded 35 different characteristics of effective teachers, three
+were dominant: their passion or enthusiasm for both teaching and the subject matter, their concern for the
+learning of all students, and their knowledge of subject matter.
+It is fairly well known that the conceptions of what it means to be a teacher held by preservice
+teachers are well established long before they enter formal teacher education programs (Hollingsworth,
+1993; Holt-Reynolds, 92, Lortie, 1975; Pajares, 1992; Resnick, 1989; Ross, Johnson, & Smith, 1991; Skamp
+& Mueller, 2001). Moreover, those beliefs have been shown to be highly resistant to change during
+professional preparation (Kennedy, 1997; Murphy, Delli, & Edwards, 2004; Zeichner & Tabachnik,
+1981). If the beliefs promoted a dynamic view of what it means to become a teacher, they might not be
+problematic. However, more often than not, Howard (1987) suggested that preservice teacher beliefs
+reflect two dominant theories: “If it works for other teachers, use it,” and “if it works, keep it” (p. 59). It
+is not unusual for teachers to view their job as an extended form of parenting and rely more on instinct,
+experience, conversation with colleagues, and trial-and-error than on formalized procedures to learn
+their craft (Banks, 1991; Clark, 1988; Goodlad, 1984; Lortie, 1975; Nias, 1989; Paine, 1990).
+None of this is to say that the beliefs and assumptions in question are immutable or that teacher
+education is completely without influence. While existing concepts are unlikely to undergo radical
+change, there is reason to believe that they can expand in meaning (Check, 1999; Mills & Satterthwait,
+2000; Ng, Nicholas, & Williams, 2010; Skamp & Mueller, 2001). Some preparation programs manage to
+nurture that sort of belief change. They do so by challenging candidates as early as possible to explore
+their own dispositions through a variety of tools by which they can outline why they want to be
+teachers and what images of effective teaching they hold (Mills & Satterthwait, 2000; Minor,
+Onwuegbuzie, Witcher, & James, 2002; Slate, Capraro, & Onwuegbuzie, 2007; Willie, 1985; Witcher,
+Onwuegbuzie, & Minor, 2001). They make a deliberate and ongoing effort to confront candidates with
+Rick A. Breault
+The Professional Educator
+their own beliefs “in the context of research, promising practice, psychological theories, and
+philosophical beliefs that underpin professional goals and practices” (Minor, et al., 2002, p. 117).
+This study describes one such effort to promote critical reflection in a small group of secondary
+education majors. The purpose of the assignment was to confront the preservice teachers with their
+own, perhaps subconscious, notions of what makes an effective high school teacher, based on their
+prior education. Then they would explore how those notions might influence their own future
+teaching. After reading the responses, I decided to categorize and synthesize the descriptions to create
+portraits of effective and ineffective teachers that might help future teachers shape their teaching
+identities and practices.
+Method of Investigation
+The research was conducted in a Midwestern public university with one of the largest teacher
+education programs in the country. The student writing out of which this inquiry grew was assigned as
+one of the requirements in an introductory education course entitled, Current Issues in Secondary
+Education. The class consisted of 38 secondary education majors, 6 of whom declined to provide
+consent to use their essays. The students were asked to answer the following questions in no more than
+five double-spaced pages.
+1. Who do you recall as your favorite teacher and why?
+2. Who do you recall as your most effective teacher and why?
+The assignment was introduced with a brief explanation in which the students were asked to limit
+their selections to high school teachers and told that the favorite and most effective teacher could be the
+same person or two different people. They were also told they could include more than one person in
+each category if they were conflicted about their choices. No definitions were suggested for either
+“favorite” or “effective.” The participants were free to think about them in whatever ways seemed
+appropriate. The favorite/effective dichotomy was used as a forced choice that might challenge
+simplistic ideas about making the classroom fun, having close relationships with students, and teacher
+versus student needs.
+The assignment was limited to recollections of high school teachers for three reasons. First, the
+recollections would be more recent. Second, the nature of the teacher-student relationship is very
+different in elementary school. In that setting a child might have only one teacher besides a few
+“special” teachers in any given grade. As a result, the emotional connections can be more powerful.
+Moreover, it would be difficult to recall and make honest comparisons between what was needed as a
+five-year old and as an eleven-year old. And if elementary school was added into the possible choices,
+the participants would have had to compare what they remember as being a highly effective third
+grade class and a senior level advanced mathematics class. A third reason was that the nature and role
+of the curriculum, extra-curricular activities, social life, and student expectations at the two levels is so
+different as to make comparisons difficult.
+The students had one week to write the essays so that they would have time to reflect on their
+choices. Since the participants were no more than six years out of high school and early in their college
+career, they might not have given much deliberate thought or conscious expression to the long-term
+impact of high school teachers.
+Favorite and Effective Teachers
+Volume 37, No. 1 • Spring, 2013
+After removing the identifying information, each essay was read with the help of two
+undergraduate research assistants. The analysis of data included simply tallying the characteristics of
+each category and ranking the characteristics in order of the number of occurrences. We then met to
+negotiate what we agreed upon as major themes and/or counter themes in the responses. The most
+common discrepancies involved discussing whether one term was synonymous with another. For
+example, to what extent did a phrase like “genuine interest in student success” mean the same thing as
+“genuinely cared about students”? The results were separated into quantitative and narrative
+summaries. Given the small sample size and the wide range of subject areas involved, it was decided
+that any statistical treatment of the numerical data would not be meaningful or shed any additional
+light on the results. Therefore, that data was simply tallied and summarized to provide a general
+profile of each category.
+
+
+
+Abstract
+An abundance of research confirms preservice teachers are unprepared to work with diverse populations. This
+article describes an education program’s efforts to support diversity initiatives and provide information and
+hands-on training to prepare teacher candidates for future work with the diversity they will encounter.
+Explanations of programs, coursework, professional development, and current and supportive literature are
+included.
+Introduction
+Imagine a world where all teachers are comfortable working with all students. They are prepared to
+meet the needs of every child based on academic abilities, physical and emotional constraints, and
+cultural, religious and domestic backgrounds. Imagine a world where classrooms are equipped with
+the necessities that provide for the ultimate learning experience for all children. They are filled with
+books from all cultures, in many languages; pictures representative of all people; manipulative
+materials to fit all hands; and decorations and wall art that is inviting to every individual. Imagine a
+world where all children can go to school unafraid, excited, and knowing they will be treated equally.
+Imagine a world where parents feel comfortable entering their child’s school, talking to their child’s
+teachers, and being involved in the education of the whole.
+We call ourselves simply The Diversity Committee for our University’s School of Education. While
+we cannot expect to make the description above a reality, we can and have worked toward that vision
+in our own smaller community. Our mission is to 1) cultivate and continuously improve a curriculum
+that will engage all faculty members as diversity responsive professionals, 2) pre-pare all teacher
+candidates to function effectively in diverse classrooms, and 3) develop and nurture a relationship with
+partner schools and other university education programs that strive to promote diversity awareness
+and education.
+Sonia Nieto (2006) shares a list of qualities (beyond those research reveals) that she believes good
+teachers should possess. They are 1) “a sense of mission,” 2) “solidarity with, and empathy for, their
+students,” 3) “the courage to challenge main-stream knowledge,” 4) “improvisation,” and 5) “a passion
+for social justice” (p. 463).
+Wong et al. (2007) state “teacher quality must be defined beyond the parameters of content
+knowledge to include a teacher’s ability to create optimal learning environments for students
+marginalized by the system because of their primary language, race/ethnicity, social class, culture,
+gender, and ability” (p. 10).
+Greta Freeman, Marilyn Izzard, Rebecca Faulkner & Jim Charles
+The Professional Educator
+This paper provides a general outline of our committee’s work with teacher candidates, colleagues,
+and PK–12 schools to promote diversity awareness and responsive teaching. It specifically breaks down
+best practice program initiatives we have found successful. We strive to promote quality teaching from
+a research standpoint: knowledge of subject matter; good communication and organizational skills; and
+training in educational pedagogy. Yet, we embrace those additional qualities listed by Nieto to help our
+teacher practitioners and professionals grow their knowledge, attitudes, and skills for working with a
+diverse student population. We make every effort to produce quality teachers as defined by Wong et
+al., to be knowledgeable in content and all-encompassing of diversity.
+School of Education Unit Diversity Plan
+Nichols and Dong (2011) make a bold statement when they say, “The majority of today’s American
+pre-service teachers just simply do not understand what multi-cultural education is” (p. 6). They go on
+to challenge education programs to “better prepare their students for teaching the multicultural
+student populations they will undoubtedly encounter” (p. 6). We believe, as a committee, our
+education unit is prepared to take this challenge.
+Our committee begins each academic year by updating our “unit diversity plan,” which one can
+access at http://www.uscupstate. edu/academics/education/default.aspx?id=2489. This plan focuses on
+diversity initiatives for teacher candidates, faculty, partner schools, and the unit as a whole.
+Nichols and Dong follow some important researchers in the area of multicultural education with
+their prescriptions for education programs. Ladson-Billings (2001), Gay (2002), Banks and McGee
+Banks (2004) and Cochran-Smith and Zeichner (2005) have all called for change and/or better
+preparation in multicultural teacher education. In keeping with this standard, the following list
+describes activities integrated into our curriculum and supported by our diversity committee and unit
+diversity plan.
+Course Assignments
+Each year, course instructors update a unit Excel chart detailing diversity-related content for all
+education program courses. We ensure inclusion of diversity related topics in the majority of our
+program coursework.
+Teacher Work Sample Diverse Learner Project
+As a part of the required teacher work sample portfolio implemented during the student teaching
+semester, preservice teachers are required to follow and work with a student from a diverse
+background. This can include racial, ethnic, cultural, socioeconomic, or other differences. They then
+report and reflect on the experience in the work sample portfolio.
+SEDF 483 – Organization and Management of a Diverse Classroom
+This course is specifically designed to detail practices supporting instruction in a diverse classroom.
+All teacher candidates are required to take this course the semester before student teaching.
+www.teachdiversity.org
+This website, a collaborative effort between USC Upstate and Furman University Education
+programs, “identifies resources for teaching and managing diversity in the classroom.” It is valuable
+for teacher candidates, teachers in the field, and university faculty in that it provides valuable
+School of Education Diversity Initiatives
+Volume 36, No. 1 • Spring, 2012
+diversity-related resources such as lesson plans and links to other websites. This website is shared with
+our public school partners and “seeks to help educators prepare for the next generation to deal
+positively with the opportunities and challenges that diversity affords.”
+Field Experiences
+Dunn et al. (2009) advocate “faculties of education aim to ensure that all teacher candidates take
+part in field experiences that involve working in communities with diverse populations” (p. 553). Early
+field experiences and student teaching are essential parts of our programs. We have developed
+relationships with schools allowing us to place our teacher candidates in classrooms for observation
+and practice teaching. We also offer some of our courses on the K–12 school campuses. Our teacher
+candidates are placed in schools each semester after being admitted to the professional program. The
+field experience director makes certain they are placed in rural, urban, and high poverty schools for
+one or more of their placements. The teacher candidate population in our education program is
+approximately 70% Caucasian. During the senior year, our elementary education teacher candidates
+are placed in two very different schools for approximately 100 hours of field work: One school is
+predominately African American; the other is predominately of Hispanic culture. The response from
+the prestudent teachers is overwhelmingly positive.
+Diversity Conference
+This one-day event for student teachers from USC Upstate and other South Carolina college and
+university education programs is a forum for sharing ideas and activities for supporting diversity. The
+conference, formally called the Diversity Collaborative, brings together future teachers from various
+cultural backgrounds to learn from professionals in the field and one another. The event is described in
+detail later in this paper.
+
+
+
+
+Abstract
+As teacher educators, we explored the impact of a range of teaching approaches to encourage the development
+of critically reflective thinking (CRT) in teacher candidates. Our study, the second in a series of three
+investigations, examined differences in two preservice secondary teachers’ responses to CRT as part of a teacher
+licensure program. We discuss the influence of content area conventions and views on curriculum when
+preservice teachers are exposed to tools that promote CRT. Our study includes data analyses of the experiences of
+preservice teachers’ work in urban student-teaching classrooms, along with the university coursework in a
+teacher preparation program.
+Our research questions examine the perspectives of two preservice teachers and address the following: On
+completion of a year-long teacher preparation program focused on encouraging CRT, what are the differences
+between two preservice teachers in their critically reflective thinking as evidenced by their reflections on teaching?
+In what ways do the perspectives differ between two content area teachers? And after a first year of teaching, what
+are these same teachers’ CRT perspectives? Our study is designed to produce usable knowledge—that is, findings
+that other teacher educators should consider in the design and implementation of field-based experiences and
+curriculum development for preservice teachers working with diverse student populations.
+Theoretical Framework
+Students’ success in school hinges in part on the teachers’ views of children’s language, race,
+gender, and socioeconomic status (Comber & Simpson, 2001). These differences may, for teachers
+newly faced with a diverse group of students, evoke notions of deficit or deficiency (Milner, 2008). If
+teachers adopt deficit views of students’ cultures and languages, they strive to “fix” students they see
+as the “problem,” rather than the curriculum, society, or school policies that result in segregated
+classrooms and exclusion from success in school (Banks, 2002; Hollins & Guzman, 2005; Sleeter &
+Grant, 1999). Likewise, deficit thinking adopts a “blame the victim” stance that can prevent students in
+urban contexts from reaching their full potential, as teachers may not adequately challenge students of
+diversity (Milner, 2008; 2010). In this study, CRT is explored to examine the impact of pedagogical and
+field-based practices that challenge deficit thinking, and to question assumptions.
+Mary Burbank, Laurie Ramirez, & Alisa Bates
+The Professional Educator
+While CRT typically prompts examinations of how teachers reflect on question identification and
+their understandings for problem solving, researchers have conceptualized CRT in a variety of ways
+(Loughran, 2002; Rodgers, 2002; Shandomo, 2010). Similar to what some researchers call “critical
+reflection,” CRT involves problem identification or framing, reflection on the basis of that identification
+(perhaps historical, social, or cultural in nature), and action planning to address the perceived problem
+(Brookfield, 1995; Shandomo, 2010). The CRT process is complex in nature, requiring introspection
+about how one’s beliefs, assumptions, and experiences influence perceptions of self and the social
+world (Shandomo, 2010).
+Many preservice teachers enter their education programs with unexamined beliefs and
+assumptions of students, as well as problematic conceptions of the role of schools in society; yet it is
+imperative that educators develop stances that allow them to view “problems” from multiple
+perspectives and actively question assumptions, routines, practices, and standing explanations that are
+taken for granted (Carrington & Selva, 2010; Loughran, 2002). That is, teacher educators must help
+preservice teachers identify why a problem exists and examine the factors that have influenced its
+identification.
+Like problem framing, seeking solutions requires a reflective process from educators that extends
+beyond strategy implementation. Educators must consider the factors that influence why problems
+occur, examine why problems are identified as significant, and develop strategies for responding that
+reflect an open-mindedness that is informed both by other educators and theories of practice (Dewey,
+1933). The intensity and mindfulness of reflective thinking extends beyond problem solving in terms of
+depth and focus (Dewey, 1933), requiring what Larrivee (2008) suggests is a complete paradigm shift
+from “viewing problems as needing to be dealt with to seeing them as opportunities for self-reflection
+and the emergence of new possibilities” (p. 101).
+Van Manen (1977) defined critical reflection as using criteria of justice and equity to consider the
+political, moral, and ethical consequences of teaching practice. Larrivee (2008) similarly suggests that
+critical reflection is an opportunity for teachers to “reflect on the moral and ethical implications and
+consequences of their classroom practices” (p. 90), a process that requires examination of how one’s
+personal and professional belief systems might impact students and their learning
+For teacher educators, efforts intended to promote critically reflective practice have been limited in
+terms of the impact on teachers’ thinking. For example, case analyses and discussions, reflective
+journaling, and action research provide tools for staging reflective thought (Carrington & Selva, 2010;
+Gore & Zeichner, 1991; cf. Harrington, Quinn-Leering, & Hodson, 1996; Leland, Harste, & Youssef,
+1997; cf. Moje & Wade, 1997; Nolan, 2008; Risko, Roskos, & Vukelich, 1999; Wade, Fauske, &
+Thompson, 2008). However, findings have indicated that the degree to which reflective thinking takes
+place by teachers is often limited.
+Like others, we assumed a combination of approaches to teaching critically reflective thinking in
+connection with field experiences would provide support for the development of CRT and teaching
+practices. We hoped adopting a contextual approach would enable our preservice teachers to engage
+in CRT in meaningful ways by connecting coursework and fieldwork (Shandomo, 2010). Specifically,
+we included opportunities for problem-framing activities, critical analyses of literature through inperson
+and online discussions using scenario prompts, and investigations into real-world teaching
+experiences coupled with action research projects.
+Critically Reflective Thinking in Urban Teacher Education
+Volume 36, No. 2 • Fall, 2012
+Teacher Development and CRT
+The implementation of CRT and the manifestations of practice within teacher education programs
+is not a simple effort infused with fool-proof strategies or tools. An historical review of curricular and
+field-based trends in teacher education illustrates how attention to how crucial reflection on topics such
+as diversity and multiculturalism have developed in nuanced ways over time, reflecting changes in
+content and course-related experiences (Castro, 2010). While these developmental dimensions of
+program changes document the evolution of depth in program delivery, focus, and intent, the
+outcomes for preservice teachers in their daily practices have varied considerably.
+In his article on analyses of documented research on approaches to increasing preservice
+teachers’ understandings of cultural diversity in teacher education during the past 30 years, Castro
+delineates the success with which programs have addressed student teachers’ engagement and
+understanding of cultural diversity. This in-depth review of previous research challenges teacher
+educators to consider how various program-based pedagogies, curricula, and field experience move
+teacher thinking beyond more superficial understandings of diversity.
+While an increased awareness of the complexity of multicultural understandings have been
+fostered among preservice teachers through a range of efforts, the results for most preservice teachers
+have been rather narrow (Castro, 2010). Although iterations in course- and field-based experiences that
+included direct work within communities, personal reflections, and examinations of beliefs and
+backgrounds have been infused within teacher education programs over time, the impact has not been
+significant. More substantive change has occurred, however, within programs that tap into what Castro
+describes as a greater awareness of and acceptance of diverse communities. He cites these changes in
+groups he identifies as among the “millennial” generation of students. He reports that while this group
+tends to be more interactive and engaged within diverse communities, deep understandings of
+diversity are still quite limited. In addition to maintaining relatively simplistic views of diversity,
+analyses of these research findings indicate a lack of critical consciousness regarding fundamental
+beliefs about diversity.
+Some might argue that more superficial beliefs and teaching practices among preservice
+teachers are simply a feature of teacher development (Dreyfus & Dreyfus, 1986; Zeichner, 1992). That is,
+teacher development takes place along a continuum where the early stages of learning to teach are
+often based upon gaining general knowledge about teachers’ work (Ball & Cohen, 1999; Putnam &
+Borko, 2000; Rosenholtz, 1989). With time, researchers argue, the “sensemaking” (Coburn, 2001; 2004)
+takes place among educators based upon interactions between the knowledge about teaching and the
+knowledge gained through experience. A give-and-take between these levels of knowledge is refined
+over time into the praxis within a teacher’s repertoire.
+In addition, to influence of general growth in learning to teach, others argue that the
+conventions of content areas may also lead teachers to adopt teaching practices and beliefs about
+student learning that align with more commonplace practices in their content areas regarding the ways
+in which curriculum and instruction are typically approached, ultimately socializing teacher behaviors
+in K–12 classrooms (Gossman, 2008; Neumann, Parry, & Becher, 2002).
+Our study is designed to foster a greater understanding of the impact of critical reflective
+teaching for two content area teachers, with an examination of similarities and differences regarding
+their perspectives on teaching as it relates to diversity. We address direct efforts using critical reflective
+Mary Burbank, Laurie Ramirez, & Alisa Bates
+The Professional Educator
+teaching designed to move beliefs and attitudes to the more advanced developmental levels cited by
+Castro (2010).
+The literature is replete with arguments for practices in teacher education that examine issues of
+power, privilege, and multicultural awareness (Sleeter, 2001; Thompson, 2003). Current research
+advances teacher educators’ understandings of diversity through examinations of content area
+preparation that explore social justice and equity in ways that are explicit and defined (Adair, 2008).
+Through emphases that embed critically reflective thinking and practice within content area
+discussions, our study examines the underpinnings of content area curriculum and traditional student–
+teacher roles and their impact on teachers’ daily activities. Without deliberate efforts to broaden our
+understanding of the influence of content area conventions on curricular and instructional decision
+making, efforts to address equity and access through CRT become generic, superficial, and predictably
+formulaic. We explore how content area preparation informs CRT, including teachers’ receptivity and
+their ability to implement CRT, highlighting the influence of content area curriculum and instruction
+on CRT thinking.
