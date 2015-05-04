@@ -41,7 +41,6 @@ def process_file(fileName):
 #As text files in the TweenTribuneOutput folder
 def makeOutputStrings():
     files = glob.glob("Testing\\DogoNews\\*.htm")
-    print files
     for inFile in files:
         fileName = inFile.replace('Testing\\DogoNews\\',  '')
         fileName = fileName.replace('.htm', '')
