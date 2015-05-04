@@ -23,7 +23,9 @@ def remove_html(fileString):
     #Removes all text leading up to article
     #The last thing before all DogoNews articles is a link to a Word Search
     fileString = re.sub('.*?Word Search', "", fileString)
+    fileString = re.sub('Favorite Embed  Email  Print  ', "", fileString)
     #Removes all text after article
+    fileString = re.sub('&.*?;', "", fileString)
     #DogoNews ends all articles with a list of used resources
     fileString = re.sub('Resources:.*', "", fileString)
     return fileString
