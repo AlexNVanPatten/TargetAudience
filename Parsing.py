@@ -38,7 +38,7 @@ def makeWords(art, ds):
 			w = art[0:x]
 			x += 1
 			last = len(art)
-			art = art[x,last]
+			art = art[x:last]
 		else:
 			w = art
 			art = ""
@@ -89,8 +89,11 @@ def makeBags():
                 i += 1
                 j = 0
         BagDog = categoryDictionary(BagStrings[0])
+        print("test")
         BagTweens = categoryDictionary(BagStrings[1])
+        print("test")
         BagResearch = categoryDictionary(BagStrings[2])
+        print("test")
         return [BagDog, BagTweens, BagResearch]
 
 def makeArticlesChoice(artNames):
@@ -101,8 +104,8 @@ def makeArticlesChoice(artNames):
                 article = open(name, 'r')
                 fileString = article.read()
                 winner = classify(fileString, bags)
-                outFile.write(name + " classified as " + winner + "\n")
-                choices = choices + winner
+                outFile.write(name + " classified as " + str(winner) + "\n")
+                choices.append(winner)
         return choices
 
 def parsing():
