@@ -9,19 +9,19 @@ list1 = []
 list2 = []
 list3 = []
 
-def readFile:
+def readFile():
 
-    with open('dogs.csv', newline='\n') as csvfile:
+    with open('dogs.csv') as csvfile:
         reader = csv.reader(csvfile, quotechar='|')
         for row in reader:
             list1 = list1 + row
 
-    with open('tweens.csv', newline='\n') as csvfile2:
+    with open('tweens.csv') as csvfile2:
         reader2 = csv.reader(csvfile, quotechar="|")
         for row in reader:
             list2 = list2 + row
 
-    with open('researchers.csv', newline="\n") as csvfile3:
+    with open('researchers.csv') as csvfile3:
         reader3 = csv.reader(csvfile, quotechar="|")
         for row in reader:
             list3 = list3 + row

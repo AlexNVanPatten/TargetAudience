@@ -1,3 +1,6 @@
+import ReadFile
+import glob
+
 def createDictionary(bag,d):
 	while (bag != ""):
 		x = bag.find('=')
@@ -38,14 +41,14 @@ def makeWords(art, ds):
 		else:
 			w = art
 			art = ""
-		if w != "-"
+		if w != "-":
 			w = w.replace('?', '').replace('!', '').replace(':','').replace(';', '').replace(',', '').replace('.', '').replace('"', '')
 			if "'" in art:
 				y = w.find("'")
-				z = w[0:z]
+				z = w[0:y]
 				y += 1
 				end = len(w)
-				w = [y:end]
+				w = w[y:end]
 				i = 0
 				for d in ds:
 					if z in d:
@@ -72,3 +75,29 @@ def classify(art, ds):
 			pos = i
 		i += 1
 	return pos
+
+#Gets Bag Strings, creates the three bags of words
+def makeBags():
+        BagStrings = ReadFile.readFile()
+        BagDog = categoryDictionary(BagsString[0])
+        BagTweens = categoryDictionary(BagsString[1])
+        BagResearch = categoryDictionary(BagsString[2])
+        return [BagDog, BagTweens, BagResearch]
+
+def makeArticlesChoice(artNames):
+        bags = makeBags()
+        choices = []
+        outFile = open("Testing\\TestingOutput\\ourChoices.txt", 'w')
+        for name in artNames:
+                article = open(name, 'r')
+                fileString = theFile.read()
+                winner = classify(fileString, bags)
+                outFile.write(name + " classified as " + winner + "\n")
+                choices = choices + winner
+        return choices
+
+def parsing():
+        files = glob.glob("Testing\\TestingArticles\\*.txt")
+        print(makeArticlesChoice(files))
+
+parsing()
